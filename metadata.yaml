@@ -1,0 +1,38 @@
+_repo: La-maison-de-Claudine_13703
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colette
+    aliases:
+    - Colette, Sidonie Gabrielle
+    - Gauthier-Villars, Henry, Mme
+    - Willy, Colette
+    - Jouvenel, Gabrielle Claudine Colette de
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '2065'
+    url: http://www.gutenberg.org/2009/agents/2065
+    wikipedia: http://en.wikipedia.org/wiki/Colette
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13703'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction, French'
+- !lcc 'PQ'
+- !lcsh 'Women authors -- Fiction'
+- !lcsh 'Autobiographical fiction, French'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Colette, Gabrielle Sidonie, 1835-1912 -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+title: La maison de Claudine
+url: http://www.gutenberg.org/ebooks/13703
